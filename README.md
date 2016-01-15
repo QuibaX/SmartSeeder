@@ -15,7 +15,7 @@
     ],
     "require": {
         ...
-        "quibax/smart-seeder": "5.1"
+        "quibax/smart-seeder": "1.0.1"
     },
     ```
 
