@@ -10,12 +10,12 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/jarektkaczyk/SmartSeeder"
+            "url": "https://github.com/QuibaX/SmartSeeder"
         }
     ],
     "require": {
         ...
-        "sofa/smart-seeder": "dev-master"
+        "quibax/smart-seeder": "5.1"
     },
     ```
 
